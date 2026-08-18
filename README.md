@@ -52,7 +52,7 @@ Add screenshots of the Power BI dashboard here.
 
 - `Marvel_Heroes_Dashboard.pbix` – Power BI dashboard
 - `Marvel_Heroes.csv` – Dataset
-- `screenshots/` – Dashboard screenshots
+- `screenshots` – Dashboard screenshots
 
 ## 💡 Skills Demonstrated
 
@@ -66,4 +66,4 @@ Add screenshots of the Power BI dashboard here.
 
 ## 👩‍💻 Author
 
-**Aradhya**
+**Ishitha**
